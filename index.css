@@ -360,11 +360,26 @@ ul{
   }
   
   .add-to-cart-btn:hover {
-    background-color: red;
+    background-color:orange;
     color: black;
   }
   
   .add-to-cart-btn:active {
     transform: scale(0.95);
   }
+  .cart-icon {
+    font-size: 24px;
+    color: #333;
+  }
   
+  .cart-icon:hover {
+    color: #007BFF; 
+  }
+  .cart-icon {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .cart-icon:hover {
+    color: #007BFF; 
+  }
